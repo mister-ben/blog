@@ -17,7 +17,7 @@ date: 2017-04-03 17:56:51
 
 After months of hard work, I am proud to annouce the release of Video.js 6.0 🎉!
 
-This release is pretty exciting. It greatly [improves the accessibility][a11y-post] of the controls and components, and we are committed to making Video.js the most accessible player we can. Video.js also provides some shiny, and awesome, new features for developers in [middleware][] and [advanced plugins][]. Video.js 6.0 is also the first release where [Flash is unbundled from core][remove-flash] -- though, it is still availablle as a plugin, if necessary.
+This release is pretty exciting. It greatly [improves the accessibility][a11y-post] of the controls and components, and we are committed to making Video.js the most accessible player we can. Video.js also provides some shiny, and awesome, new features for developers in [middleware][] and [advanced plugins][]. Video.js 6.0 is also the first release where [Flash is unbundled from core][remove-flash] -- though, it is still available as a plugin, if necessary.
 
 Today's release is a pre-release and will stay that way for about a week or two before being promoted to `latest`. Just to make sure that any last bugs, if any, are ironed out.
 
@@ -50,10 +50,10 @@ We strive to be open and inclusive and so we have adopted a [Code of Conduct][co
 
 We are super excited for this release! Please take it for a spin from `next` tag on npm or from the [CDN][vjs-6]. And please come chat with us on [Slack][].
 
-[a11y-post]: Feature-Spotlight-Accessibility.md
-[middleware]: Feature-Spotlight-Middleware.md
-[advanced plugins]: Feature-Spotlight-Advanced-Plugins.md
-[remove-flash]: Video-js-removes-Flash-from-core-player.md
+[a11y-post]: http://blog.videojs.com/Feature-Spotlight-Accessibility/
+[middleware]: http://blog.videojs.com/Feature-Spotlight-Middleware/
+[advanced plugins]: http://blog.videojs.com/Feature-Spotlight-Advanced-Plugins/
+[remove-flash]: http://blog.videojs.com/Video-js-removes-Flash-from-core-player/
 [breaking-6]: https://github.com/videojs/video.js/wiki/Video.js-6-Migration-Guide
 [new-issue]: https://github.com/videojs/video.js/issues/new
 [Slack]: http://slack.videojs.com
